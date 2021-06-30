@@ -4,8 +4,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelscabral/)](https://www.linkedin.com/in/samuelscabral/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/samuelscabral)](https://twitter.comsamuelscabral)
 
-[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelscabral)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samuelscabral&theme=dracula)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samuelscabral&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samuelscabral&theme=dracula)
 <!--
 **SamuelSCabral/SamuelSCabral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
