@@ -1,6 +1,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/samuelscabral)](https://github.com/samuelscabral)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelscabral/)](https://www.linkedin.com/in/samuelscabral/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/samuelscabral)](https://twitter.com/samuelscabral)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/samuelscabral)](https://twitter.com/samuscabral)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samuelscabral&theme=dracula)
 
